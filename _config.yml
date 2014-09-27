@@ -2,7 +2,7 @@
 title: Bjorling.me
 email: m@bjorling.me
 description: >
-    "Tape is Dead, Disk is Tape, Flash is Disk" - Jim Gray - A research blog on Solid State Drives
+    A research blog on Software-defined Solid State Drives
 baseurl: "bjorling.me"
 url: "http://bjorling.me" # the base hostname & protocol for your site
 github_username: MatiasBjorling
